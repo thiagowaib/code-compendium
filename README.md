@@ -27,7 +27,7 @@ A JWT Authenticator example with login, built with the help of <a href="https://
 
 <br>
 
-### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/mandelbrot-set" target="_blank"><img src="https://atitudereflexiva.files.wordpress.com/2021/11/jwt_icon.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Mandelbrot Set with p5.js</a>**
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/mandelbrot-set" target="_blank"><img src="http://ecoarte.info/ecoarte/wp-content/uploads/2017/01/p5image.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Mandelbrot Set with p5.js</a>**
 Mandelbrot Set rendering, built with the help of <a href="https://www.youtube.com/watch?v=6z7GQewK-Ks" target="_blank">this tutorial</a>. *(en)*
 
 <br>
