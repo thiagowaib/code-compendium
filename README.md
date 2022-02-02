@@ -23,7 +23,12 @@ A crash course built for teaching React Js for trainees joining <a href="unect.c
 <br>
 
 ### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/jwt-auth" target="_blank"><img src="https://atitudereflexiva.files.wordpress.com/2021/11/jwt_icon.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;JWT Authenticator with Login System</a>**
-A JWT Authenticator example with login, build with the help of <a href="https://www.youtube.com/watch?v=mbsmsi7l3r4&t=1387s" target="_blank">this tutorial</a>. *(en)*
+A JWT Authenticator example with login, built with the help of <a href="https://www.youtube.com/watch?v=mbsmsi7l3r4" target="_blank">this tutorial</a>. *(en)*
+
+<br>
+
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/mandelbrot-set" target="_blank"><img src="https://atitudereflexiva.files.wordpress.com/2021/11/jwt_icon.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Mandelbrot Set with p5.js</a>**
+Mandelbrot Set rendering, built with the help of <a href="https://www.youtube.com/watch?v=6z7GQewK-Ks" target="_blank">this tutorial</a>. *(en)*
 
 <br>
 
