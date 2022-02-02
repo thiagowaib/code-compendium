@@ -1,4 +1,4 @@
-# Capacitação de Javascript
+# Capacitação de ReactJs
 Repositório da Capacitação ReactJs da <a href="www.unect.com.br" target="_blank">Unect</a> - 2021/1
 
 

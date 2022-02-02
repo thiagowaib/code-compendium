@@ -17,7 +17,7 @@ A crash course built for teaching Javascript for trainees joining <a href="unect
 
 <br>
 
-### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/unect-cap-reactjs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Javascript Crash Course by Unect</a>**
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/unect-cap-reactjs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;ReactJs Crash Course by Unect</a>**
 A crash course built for teaching React Js for trainees joining <a href="unect.com.br" target="_blank">Unect Jr</a>. *(pt-BR)*
 
 <br>
