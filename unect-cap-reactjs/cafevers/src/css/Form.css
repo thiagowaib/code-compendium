@@ -1,0 +1,37 @@
+form{
+    transition: all .3s;
+}
+
+.input{
+    width: 30vw;
+    margin: 10px auto 5px auto;
+}
+.input label{
+    font-size: 20px;
+    color: whitesmoke;
+    display: block;
+    margin-bottom: 3px;
+}
+.input input{
+    width: 98%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    color: gray;
+    display: block;
+}
+
+.button{
+    padding: 5px 30px;
+    font-size: 20px;
+    background: transparent;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    color: whitesmoke;
+    margin-left: 27vw;
+    margin-top: 10px;
+}
+
+h6{
+    font-size: 25px;
+}

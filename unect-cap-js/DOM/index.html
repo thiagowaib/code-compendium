@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/styles.css">
+    <title>Yoki#2</title>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <img src='./assets/Logo.png'/>
+        <ul>
+            <li><a href='#banner'>Início</a></li>
+            <li onClick='abrirModal()'>Modal</li>
+            <li onClick='descer()'>Lista</li>
+        </ul>
+    </header>
+
+    <!-- Banner -->
+    <section id='banner'>
+        <img src='./assets/Pipoca.jpg'>    
+    </section>
+
+    <!-- Listagem -->
+    <section id='lista'>
+        <input id='input' type="text" placeholder='...'>
+        <button onClick='add()'>Adicionar</button>
+        <article id='artigo'>
+        </article>
+    </section>
+    
+    <!-- Modal -->
+    <section id='modal' onClick='fecharModal()'>
+        <div id='content'>
+            <h1>Título do Modal</h1>
+            <p>Um pouco de texto aqui</p>
+            <p>Um pouco mais ali</p>
+            <p>E um tanto aqui</p>
+        </div>
+    </section>
+
+    <!-- JAVASCRIPT -->
+    <script src='./js/script.js'></script>
+    <script src='./js/modal.js'></script>
+</body>
+
+
+</html>

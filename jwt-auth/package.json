@@ -1,0 +1,18 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "Jwt Authenticaticator for Login",
+  "main": "src/server.js",
+  "repository": "https://github.com/thiagowaib/code-compendium/tree/jwt-auth",
+  "author": "thiagowaib <thiagowaib@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  }
+}

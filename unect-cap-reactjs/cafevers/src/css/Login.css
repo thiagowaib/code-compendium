@@ -1,0 +1,12 @@
+#Login-article{
+    padding: 50px;
+    height: 100%;
+    background-color: rgb(22, 5, 0);
+    transition: all .5s;
+}
+
+#Login-article h2{
+    color: whitesmoke;
+    font-size: 24px;
+    text-align: center;
+}

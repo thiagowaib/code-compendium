@@ -1,0 +1,10 @@
+h2{
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    font-style: italic;
+    border-radius: 50px;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+}

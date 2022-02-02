@@ -1,0 +1,31 @@
+header{
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+    background-color: whitesmoke;
+    box-shadow: 4px 0 4px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+header ul{
+    display: inline-block;
+    position: absolute;
+    top: 35px;
+    right: 10%;
+}
+
+header ul li{
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 24px;
+    transition: transform .5s;
+}
+
+header ul li:hover{
+    transform: scale(1.1);
+}
+
+.link{
+    color: black;
+    text-decoration: none;  
+}
