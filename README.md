@@ -2,12 +2,10 @@
 ### welcome to my code compendium.
 
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" 
-height="5px"
->
+height="5px">
 <img
 src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1590&q=80" 
-width="80%"
->
+width="80%">
 > **There are archived in seperate branches, several projects exploring or studying a certain topic, but were not big enough to be made into an individual repository.**
 
 <br>
