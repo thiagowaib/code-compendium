@@ -4,8 +4,8 @@
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" 
 height="5px">
 <img
-src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1590&q=80" 
-width="80%">
+src="https://github.com/thiagowaib/code-compendium/blob/main/.github/banner.jfif?raw=true" 
+width="100%">
 > **In each subdirectory is stored a project exploring a certain subject, that was not big enough for its own repository. A complete list can be found below**
 
 <br>
