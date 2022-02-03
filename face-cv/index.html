@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face CV</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- JS -->
+    <script defer src="face-api.min.js"></script>
+    <script defer src="script.js"></script>
+
+</head>
+<body>
+
+    <!-- UI -->
+    <header>
+        <h1>computer vision</h1>
+        <h2>faces</h2>
+    </header>
+    <ul>
+        <li id="li-det" onclick="handleLi(0)" class="on">
+            detection
+        </li>
+        <li id="li-lan" onclick="handleLi(1)">
+            landmarks
+        </li>
+        <li id="li-exp" onclick="handleLi(2)">
+            expressions
+        </li>
+        <li id="li-age" onclick="handleLi(3)">
+            age'n'gender
+        </li>
+    </ul>
+
+    <!-- The Player -->
+    <video 
+    id="video"
+    height="600px"
+    width="600px"
+    autoplay
+    muted
+    >
+
+
+</body>
+</html>
