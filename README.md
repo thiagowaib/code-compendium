@@ -1,4 +1,4 @@
-# 👋🏻 Hello there,
+## 👋🏻 Hello there,
 ### welcome to my code compendium.
 
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" 
@@ -10,7 +10,7 @@ width="100%">
 
 <br>
 
-## 📚 Project List
+# 📚 Project List
 
 ### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/unect-cap-js" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Javascript Crash Course by Unect</a>**
 A crash course built for teaching Javascript for trainees joining <a href="unect.com.br" target="_blank">Unect Jr</a>. *(pt-BR)*
