@@ -2,11 +2,11 @@
 
 This project explores the **<a href="https://justadudewhohacks.github.io/face-api.js/docs/index.html" target="_blank">face-api.js</a>** to visualize face detection and recognition.
 
-<img src="https://github.com/thiagowaib/code-compendium/blob/main/face-cv/.github/demo.jpg?raw=true" width="100%">
+<img src="https://github.com/thiagowaib/code-compendium/blob/main/face-cv/.github/demo.jpg?raw=true" width="70%">
 
 <br>
 
-## Try it for yourself!
+## 👾 Try it for yourself!
 
 The project can be initialized simply by opening **index.html**. 
 > Note: A video feed is needed in order for the algorithm to function properly. If you have a camera connected to the device but it's not working, try reloading the page.
