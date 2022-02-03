@@ -1,6 +1,7 @@
-
-
+// Algorithm Frequency (lower means faster)
 const interval = 100
+
+// DOM Elements
 const player = document.getElementById('video')
 const liDet = document.getElementById("li-det")
 const liLan = document.getElementById("li-lan")
