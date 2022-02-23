@@ -1,7 +1,7 @@
 # Boid Simulation 🐟🐠
 
 <img src="https://github.com/thiagowaib/code-compendium/blob/main/boid-sim/.github/demo.gif?raw=true" width="100%">
-> This project explores a take on boids *(flock)* simulation using [p5.js](https://p5js.org "p5.js")
+> This project explores a take on boids *(flock)* simulation using <a href="https://p5js.org" target="_blank">p5.js</a>
 
 <br>
 
