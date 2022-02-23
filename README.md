@@ -27,7 +27,7 @@ A JWT Authenticator example with login, built with the help of <a href="https://
 
 <br>
 
-### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/mandelbrot-set" target="_blank"><img src="http://ecoarte.info/ecoarte/wp-content/uploads/2017/01/p5image.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Mandelbrot Set with p5.js</a>**
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/mandelbrot-set" target="_blank"><img src="https://github.com/thiagowaib/code-compendium/blob/main/.github/p5js.png?raw=true" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Mandelbrot Set with p5.js</a>**
 Mandelbrot Set rendering, built with the help of <a href="https://www.youtube.com/watch?v=6z7GQewK-Ks" target="_blank">this tutorial</a>. *(en)*
 
 <br>
@@ -38,7 +38,7 @@ Face Detection and Recognition algorithm built with <a href="https://justadudewh
 
 <br>
 
-### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/boid-sim" target="_blank"><img src="http://ecoarte.info/ecoarte/wp-content/uploads/2017/01/p5image.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Boid Simulation</a>**
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/boid-sim" target="_blank"><img src="https://github.com/thiagowaib/code-compendium/blob/main/.github/p5js.png?raw=true" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Boid Simulation</a>**
 Boids (flock) Simulation built with <a href="https://p5js.org" target="_blank">p5.js</a>. *(en)*
 <b><a href="https://thiagowaib.github.io/code-compendium/boid-sim/" target="_blank">▶️ Check out this Demo</a></b>
 
