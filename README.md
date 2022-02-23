@@ -44,4 +44,4 @@ Boids (flock) Simulation built with <a href="https://p5js.org" target="_blank">p
 
 <br>
 
-<a href="https://github.com/thiagowaib/code-compendium#-hello-there"> :fa-arrow-up: Back to top :fa-arrow-up:</a>
+<a href="https://github.com/thiagowaib/code-compendium#-hello-there"> ↑ Back to top ↑</a>
