@@ -8,7 +8,8 @@ This project explores the **<a href="https://justadudewhohacks.github.io/face-ap
 
 ## 👾 Try it for yourself!
 
-The project can be initialized simply by opening **index.html**. 
+The project can be initialized simply by opening **index.html**.
+<b><a href="https://thiagowaib.github.io/code-compendium/face-cv/" target="_blank">▶️ Or just check out this Demo</a></b> 
 > Note: A video feed is needed in order for the algorithm to function properly. If you have a camera connected to the device but it's not working, try reloading the page.
 
 Once running, you can select different views by toggling them as shown below:

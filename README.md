@@ -34,12 +34,14 @@ Mandelbrot Set rendering, built with the help of <a href="https://www.youtube.co
 
 ### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/face-cv" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25px"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Face Detection and Recognition</a>**
 Face Detection and Recognition algorithm built with <a href="https://justadudewhohacks.github.io/face-api.js/docs/index.html" target="_blank">face-api.js</a>. *(en)*
+<b><a href="https://thiagowaib.github.io/code-compendium/face-cv/" target="_blank">▶️ Check out this Demo</a></b>
 
 <br>
 
 ### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/boid-sim" target="_blank"><img src="http://ecoarte.info/ecoarte/wp-content/uploads/2017/01/p5image.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Boid Simulation</a>**
 Boids (flock) Simulation built with <a href="https://p5js.org" target="_blank">p5.js</a>. *(en)*
+<b><a href="https://thiagowaib.github.io/code-compendium/boid-sim/" target="_blank">▶️ Check out this Demo</a></b>
 
 <br>
 
-<b><a href="https://github.com/thiagowaib/code-compendium#-hello-there">⬆️ Back to top ⬆️</a></b>
+<a href="https://github.com/thiagowaib/code-compendium#-hello-there"> :fa-arrow-up: Back to top :fa-arrow-up:</a>

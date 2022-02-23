@@ -7,7 +7,8 @@ This project explores a take on boids *(flock)* simulation using <a href="https:
 
 ## 👾 Try it for yourself!
 
-The project can be initialized simply by opening **index.html**. 
+The project can be initialized simply by opening **index.html**.
+<b><a href="https://thiagowaib.github.io/code-compendium/boid-sim/" target="_blank">▶️ Or just check out this Demo</a></b>
 
 Once running, you can experiment with the sliders to modify different parameters in the simulation.
 
