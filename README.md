@@ -37,4 +37,9 @@ Face Detection and Recognition algorithm built with <a href="https://justadudewh
 
 <br>
 
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/boid-sim" target="_blank"><img src="http://ecoarte.info/ecoarte/wp-content/uploads/2017/01/p5image.png" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Boid Simulation</a>**
+Boids (flock) Simulation built with <a href="https://p5js.org" target="_blank">p5.js</a>. *(en)*
+
+<br>
+
 <b><a href="https://github.com/thiagowaib/code-compendium#-hello-there">⬆️ Back to top ⬆️</a></b>
