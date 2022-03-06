@@ -1,6 +1,7 @@
 # YouTube Downloader
 <img src="http://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/10/como-fazer-download-video-youtube-celular.jpg" width="70%">
-> This project demos the [Pytube](https://pytube.io/en/latest/user/install.html "Pytube") Python library, used to download Video and Audio from youtube URLS.
+
+> This project demos the **[Pytube](https://pytube.io/en/latest/user/install.html "Pytube")** Python library, used to download Video and Audio from youtube URLS.
 
 <br>
 
