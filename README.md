@@ -46,4 +46,9 @@ Boids (flock) Simulation built with <a href="https://p5js.org" target="_blank">p
 
 <br>
 
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/yt-download" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Youtube Downloader</a>**
+Youtube Audio & Video downloader script, built with <a href="https://pytube.io/en/latest/user/install.html" target="_blank">pytube</a>. *(en)*
+
+<br>
+
 <a href="https://github.com/thiagowaib/code-compendium#-hello-there"> ↑ Back to top ↑</a>
