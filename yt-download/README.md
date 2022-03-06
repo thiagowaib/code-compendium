@@ -6,7 +6,7 @@
 
 ## 👾 Try it for yourself!
 
-You'll need to have **[Python >3.0](https://www.python.org/downloads/release/python-3102/ "Python >3.0")** installed, and install the [pytube](https://pytube.io/en/latest/user/install.html "pytube") dependency. The quickest way to do so is via the command prompt:
+You'll need to have [Python >3.0](https://www.python.org/downloads/release/python-3102/ "Python >3.0") installed, and install the [pytube](https://pytube.io/en/latest/user/install.html "pytube") dependency. The quickest way to do so is via the command prompt:
 
     $ pip install pytube
 
