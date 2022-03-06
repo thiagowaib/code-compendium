@@ -20,7 +20,7 @@ while(True):
 # Video Download
 # ______________
 inp = ""
-while(inp.upper() != "Y" or inp.upper() == "N"):
+while(inp.upper() != "Y" and inp.upper() != "N"):
     inp = input("Wish to download Video? (Y/n)")
 if(inp.upper() == "Y"):
     try:
@@ -47,7 +47,7 @@ if(inp.upper() == "Y"):
 # Audio Download
 # ______________
 inp = ""
-while(inp.upper() != "Y" or inp.upper() == "N"):
+while(inp.upper() != "Y" and inp.upper() != "N"):
     inp = input("Wish to download Audio? (Y/n)")
 if(inp.upper() == "Y"):
     try:
