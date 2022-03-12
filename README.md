@@ -51,4 +51,10 @@ Youtube Audio & Video downloader script, built with <a href="https://pytube.io/e
 
 <br>
 
+
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/qrcode-gen" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;QR Code Generator</a>**
+QR Code Generator script, built with <a href="https://github.com/lincolnloop/python-qrcode" target="_blank">qrcode</a>. *(en)*
+
+<br>
+
 <a href="https://github.com/thiagowaib/code-compendium#-hello-there"> ↑ Back to top ↑</a>
