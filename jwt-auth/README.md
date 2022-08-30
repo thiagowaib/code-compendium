@@ -2,7 +2,7 @@
 
 Hi! This project explores a scenario where a user logs into an account, and signs a JWT - which is used later on to auth the user and filter the content that is shown.
 
-**Build with** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px"/>
+**Built with** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px"/>
 
 <br>
 

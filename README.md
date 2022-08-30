@@ -57,4 +57,10 @@ QR Code Generator script, built with <a href="https://github.com/lincolnloop/pyt
 
 <br>
 
+
+### **<a href="https://github.com/thiagowaib/code-compendium/tree/main/go-rest-api" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg?raw=true" height="25px"/>&nbsp;&nbsp;•&nbsp;&nbsp;Go REST API</a>**
+RESTful API, built with <a href="https://go.dev/doc/install" target="_blank">Go</a>. *(en)*
+
+<br>
+
 <a href="https://github.com/thiagowaib/code-compendium#-hello-there"> ↑ Back to top ↑</a>
