@@ -7,11 +7,7 @@ Hi! This project explores a RESTful API built with GO and Gin.
 <br>
 
 ## How to start application
-* First, [install Go](https://go.dev/doc/install "install Go")
-
-
-        // Then, to run the server with
-       go run main.go
+* Just execute the **main.exe** executable ;)
 
 <br>
 
